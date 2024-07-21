@@ -1,0 +1,60 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Verilog/practice 2
+T_opt
+!s110 1603119898
+Vo9R;RDZndk;E7YEPbn=Q92
+04 9 4 work testbench fast 0
+=1-5c879c701b97-5f8dab1a-2cd-2b9c
+o-quiet -auto_acc_if_foreign -work work -debugdb
+n@_opt
+OL;O;10.4;61
+R0
+vEX_102_test_vector_and
+Z1 !s110 1603458934
+!i10b 1
+!s100 cD6B[2Ag3KaK]K@ZHUNQR3
+IAM0[3`bh:>QGio4OWES;53
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1603119686
+8EX_102_practice.v
+FEX_102_practice.v
+L0 3
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1603458934.608000
+!s107 EX_102_practice.v|
+!s90 -reportprogress|300|EX_102_practice.v|
+!i113 0
+Z4 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@e@x_102_test_vector_and
+vtestbench
+R1
+!i10b 1
+!s100 nUY3dhUm^Z<mNZ_lX0^5I3
+IY7BiBcTL[:QV6YBUcWF@A1
+R2
+R0
+w1603119875
+8EX_102_tb_practice.v
+FEX_102_tb_practice.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1603458934.871000
+!s107 EX_102_tb_practice.v|
+!s90 -reportprogress|300|EX_102_tb_practice.v|
+!i113 0
+R4
